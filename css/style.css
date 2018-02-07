@@ -1,0 +1,13 @@
+.page-header:after{
+    background: rgba(13, 35, 132, 0.88);
+    background: linear-gradient(45deg, rgba(132, 13, 121, 0.88) 0%, rgba(13, 35, 132, 0.31) 100%);
+    background: -moz-linear-gradient(135deg, rgba(132, 13, 121, 0.88) 0%, rgba(13, 35, 132,0.31) 100%);
+    background: -webkit-linear-gradient(135deg, rgba(132, 13, 121, 0.88) 0%, rgba(13, 35, 132, 0.31) 100%);
+}
+
+.form-control .input-group-addon {
+    color: #ffffff;
+}
+.form-control {
+    color: #ffffff;
+}
